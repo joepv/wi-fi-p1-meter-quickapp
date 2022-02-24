@@ -49,7 +49,7 @@ Full documentation of the Wi-Fi P1 meter Quick App is included in the provided Z
 
 ## About me
 
-More interested FIBARO integrations and scenes can be found on my '[smart home adventur](https://docs.joepverhaeg.nl)e' blog.
+More interested FIBARO integrations and scenes can be found on my '[smart home adventure](https://docs.joepverhaeg.nl)' blog.
 
 If you like using this Quick App you can buy me a coffee:
 https://www.buymeacoffee.com/joep
