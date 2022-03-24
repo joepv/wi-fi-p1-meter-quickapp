@@ -13,9 +13,6 @@ _=loadfile and loadfile("TQAE.lua") {
 -- Version 1.0 (February 2022)
 -- Copyright (c)2022 Joep Verhaeg <info@joepverhaeg.nl>
 
--- If you like using this Quick App you can buy me a coffee:
--- https://www.buymeacoffee.com/joep
-
 -- Full documentation you can find at:
 -- https://docs.joepverhaeg.nl/homewizard-p1-meter
 ----------------------------------------------------------------------------------
